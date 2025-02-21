@@ -1,19 +1,26 @@
+# Python Practice
+
 ## Exercise 1: Movie Ticket Price Calculator
+### Problem Screenshot
+![image](https://github.com/user-attachments/assets/49369949-93c0-4d02-9558-86129c899fe9)
+### Output Screenshot
+![image](https://github.com/user-attachments/assets/8d6ea3af-c02c-4832-8325-987bd11a6b82)
 
-![image](https://github.com/user-attachments/assets/681668c1-6b4d-4eb7-8f7c-fe5fe82e0b44)
-
-![image](https://github.com/user-attachments/assets/2d2d9ec5-0d34-4d25-b7e8-430d722846f1)
 
 ## Exercise 2: Even or Odd Number Checker
+### Problem Screenshot
+![image](https://github.com/user-attachments/assets/885365ec-ecb0-48dc-b9ef-becc7bacd097)
+### Output Screenshot
+![image](https://github.com/user-attachments/assets/5d13c949-52db-4821-bbc7-3f62ccdc5616)
 
-![image](https://github.com/user-attachments/assets/3d4ffea7-a3aa-46b4-adb0-4769b10a3780)
-
-![image](https://github.com/user-attachments/assets/44506fd6-946f-4445-9c37-c6a8668cb90f)
 
 ## Exercise 3: Simple Login System
+### Problem Screenshot
+![image](https://github.com/user-attachments/assets/79ae956d-ffa7-4166-bbfb-0b7e61e76fa6)
+### Output Screenshot
+![image](https://github.com/user-attachments/assets/2e5b3c7b-d599-4c10-9a0d-f843dd2cdb08)
 
-![image](https://github.com/user-attachments/assets/a4c18133-5226-4b99-b4d1-7d3dff574458)
 
-![image](https://github.com/user-attachments/assets/642eb294-22c2-4145-908d-d65ff2b574e0)
+
 
 
